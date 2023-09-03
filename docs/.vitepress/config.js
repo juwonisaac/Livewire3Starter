@@ -1,7 +1,7 @@
 // improve my config vite press code 
 
 export default {
-  base: '/docs/',
+  base: '/repo/docs/',
   dest: '/public/docs/',
   title: "ERPMASTER",
   description: "Inventory management system built with TallStack",
