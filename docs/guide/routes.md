@@ -1,0 +1,6 @@
+- Route::get('auth', App\Livewire\Auth\Index::class);
+- Route::get('admin/contact', App\Livewire\Admin\Contact::class);
+- Route::get('admin/dashboard', App\Livewire\Admin\Dashboard::class);
+- Route::get('admin/pages', App\Livewire\Admin\Pages::class);
+- Route::get('admin/section', App\Livewire\Admin\Section::class);
+- Route::get('admin/usertable', App\Livewire\Admin\UserTable::class);
